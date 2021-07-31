@@ -1,6 +1,9 @@
 # discordvar-js
 Discord API bot tool for game users
 
-I created a discord JS bot for the guild that my friend and I have in Black Desert Online. 
+Written in 2020
 
-Purpose: The bot uses an API to fetch current market value prices in the game. It computes some simple math and returns the best/most efficient item to sell to a vendor.
+Made with
+- Javascript
+- Discord API and a private API
+- HTML/CSS
