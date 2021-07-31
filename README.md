@@ -1,5 +1,5 @@
 # discordvar-js
-bdokermit bot
+Discord API bot tool for game users
 
 I created a discord JS bot for the guild that my friend and I have in Black Desert Online. 
 
